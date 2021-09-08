@@ -1,3 +1,3 @@
-# Web Foundry Resources
+# Web-foundry-Resources
 
 **[Event Timeline](/timeline.md)**
