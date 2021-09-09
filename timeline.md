@@ -5,3 +5,6 @@
 **11 September 2021** - CSS overview
 
 *Upcoming Sessions will be updated soon....*
+
+
+<details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
