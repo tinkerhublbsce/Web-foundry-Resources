@@ -5,9 +5,7 @@
 **[Event Timeline](/timeline.md)**
 
 
-**Resources**  
-[Repo](https://github.com/tinkerhublbsce/Web-foundry-Resources)  
-[Website](https://tinkerhublbsce.github.io/Web-foundry-Resources/)
+[Resources Website](https://tinkerhublbsce.github.io/Web-foundry-Resources/)
 
 Course Material
 
