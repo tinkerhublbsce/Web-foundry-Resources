@@ -43,3 +43,7 @@ So when you enter the domain name into the browser's search bar, first your requ
 if you tried to visit some website most probably the response would be containing the webpage that is to be displayed to you. If you like to explore more take a look at this.
 
 ### [How Web Works By Academind ](https://academind.com/tutorials/how-the-web-works/)
+
+
+
+<details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
