@@ -7,6 +7,6 @@
 
 [Resources Repo](https://github.com/tinkerhublbsce/Web-foundry-Resources)
 
-- Part 1
-  - [How Web Works](/part1/1-how-web-works)
-  - [Basics of HTML](/part1/2-basic-html)
+Course Material
+
+- [Part 1](https://tinkerhublbsce.github.io/Web-foundry-Resources/part1)
