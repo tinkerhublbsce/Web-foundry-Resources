@@ -10,3 +10,7 @@
 Course Material
 
 - [Part 1](/part1/README.md)
+
+
+
+<details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
