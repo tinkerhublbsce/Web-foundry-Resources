@@ -9,4 +9,4 @@
 
 Course Material
 
-- [Part 1](https://github.com/tinkerhublbsce/Web-foundry-Resources/part1)
+- [Part 1](/part1/README.md)
