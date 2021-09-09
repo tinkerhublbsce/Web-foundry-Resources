@@ -48,3 +48,6 @@ Now Here's the list of some really useful tags
 ## Here are some cool resources you could refer to
  - [W3Schools](https://www.w3schools.com/html/)
  - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+
+<details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
