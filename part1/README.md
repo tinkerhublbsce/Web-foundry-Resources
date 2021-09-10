@@ -5,4 +5,7 @@
    - [Live](https://tinkerhublbsce.github.io/Web-foundry-Resources/part1/2-basic-html/code/)
 
 
+[Live Session Recording](https://youtu.be/xx_M5u2LgYc)
+
+
 <details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
