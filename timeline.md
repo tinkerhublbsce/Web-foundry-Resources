@@ -4,6 +4,8 @@
 
 **11 September 2021** - CSS overview
 
+**12 September 2021** - Build a google homepage clone
+
 *Upcoming Sessions will be updated soon....*
 
 
