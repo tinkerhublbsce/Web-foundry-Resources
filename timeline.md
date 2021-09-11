@@ -1,10 +1,10 @@
 ## Event Timeline
 
-**09 September 2021** - Intro to Web Dev and Basic HTML
-
-**11 September 2021** - CSS overview
-
-**12 September 2021** - Build a google homepage clone
+|Date|Session|Recording|
+|------------|--------------|--------|
+|**09 September 2021**|Intro to Web Dev and Basic HTML|https://youtu.be/xx_M5u2LgYc|
+|**11 September 2021**|CSS overview|
+|**12 September 2021**|Build a google homepage clone|
 
 *Upcoming Sessions will be updated soon....*
 
