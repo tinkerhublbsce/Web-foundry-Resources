@@ -127,3 +127,5 @@ Here the style for the `<h1>` is inside the `<head>` therefore the text which is
 |height| This property is used to set the height of an html element. Mostly probably the `<div>`|
 |width| This property is used to set the width of an html element. Mostly probably the `<div>`|
 
+
+<details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
