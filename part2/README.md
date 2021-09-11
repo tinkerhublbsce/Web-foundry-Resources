@@ -6,3 +6,6 @@
     - [Live](https://tinkerhublbsce.github.io/Web-foundry-Resources/part2/Code/index.html)
 
 Live Recording Will be Updated Soon.
+
+
+<details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
