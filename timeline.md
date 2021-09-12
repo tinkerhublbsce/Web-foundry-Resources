@@ -11,7 +11,7 @@
 
 ## Tasks
 |Time|Task|Details|Submission Link|
-|--|--|--|--|
+|-----|-----|-----|-----|
 |13-14 September|Instagram Login Page Clone|[View](/task1/README.md)|
 
 
