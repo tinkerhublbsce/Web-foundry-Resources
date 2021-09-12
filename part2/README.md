@@ -5,7 +5,7 @@
 
   - [Live](https://tinkerhublbsce.github.io/Web-foundry-Resources/part2/Code/index.html)
 
-Live Recording Will be Updated Soon.
+[Live Session Recording ](https://www.youtube.com/watch?v=dsfgHjP7pJU)
 
 
 <details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
