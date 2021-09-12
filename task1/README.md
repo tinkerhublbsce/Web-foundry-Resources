@@ -14,3 +14,6 @@ Here are the icons you need to build it [bit.ly/ig-assets](https://bit.ly/ig-ass
 Try as much as you can to build it similar to this....   
 
 Whatever be your result, Sumbit it here (*Submission link will be shared soon*) before **14th September 11:59pm**
+
+
+<details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
