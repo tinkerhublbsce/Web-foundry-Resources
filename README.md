@@ -15,6 +15,5 @@ Course Material
   - [Task 1](/task1/README.md)
 
 
-Tasks
 
 <details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
