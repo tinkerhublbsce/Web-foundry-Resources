@@ -13,7 +13,7 @@
 
 |Time|Task|Details|Submission Link|
 |-----|-----|-----|-----|
-|13-14 September|Instagram Login Page Clone|[View](/task1/README.md)|
+|13-14 September|Instagram Login Page Clone|[View](/task1/README.md)|[Submit](https://bit.ly/task-1-lbscek)|
 
 
 <details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
