@@ -1,6 +1,6 @@
 # Part - 4 Introduction to BootStrap
 
-- [Code](https://github.com/tinkerhublbsce/Web-foundry-Resources/tree/main/part3/Code)
+- [Code](https://github.com/tinkerhublbsce/Web-foundry-Resources/tree/main/part4/Code)
 - [Live Components Demo](Demo.md)
 
 Live Session Recording will be Uploaded Soon.
