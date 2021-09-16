@@ -14,3 +14,5 @@
 - [Form](https://tinkerhublbsce.github.io/Web-foundry-Resources/part4/Code/forms)
 - [Icon](https://tinkerhublbsce.github.io/Web-foundry-Resources/part4/Code/icons)
 - [NavBar](https://tinkerhublbsce.github.io/Web-foundry-Resources/part4/Code/navbar)
+
+<details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
