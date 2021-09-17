@@ -1,7 +1,7 @@
 # Part - 5
 
-- [Code](https://github.com/tinkerhublbsce/Web-foundry-Resources/tree/main/part5/index.html)
-- [Live]()
+- [Code](https://github.com/tinkerhublbsce/Web-foundry-Resources/tree/main/part5/Code/index.html)
+- [Live](https://tinkerhublbsce.github.io/Web-foundry-Resources/part5/Code/index.html)
 
 Live Session Recording will be uploaded soon.
 
