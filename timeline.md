@@ -17,7 +17,7 @@
 |Time|Task|Details|Submission Link|Submission Deadline|
 |-----|-----|-----|-----|-----|
 |13-15 September|Instagram Login Page Clone|[View](/task1/README.md)|[Submit](https://bit.ly/task-1-lbscek)|15 Sep 2021 **11:59PM**
-|17-24 September|Personal Portfolio Website|||
+|17-24 September|Personal Portfolio Website|[View](/task2/README.md)||
 
 
 <details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
