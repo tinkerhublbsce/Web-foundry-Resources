@@ -17,6 +17,7 @@ Course Material
 - [Part 4](/part4/README.md)
 - [Part 5](/part5/README.md)
   - [Task 2](/task2/README.md)
+- [Part 6](/part6/README.md)
 
 
 
