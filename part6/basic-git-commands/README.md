@@ -37,3 +37,6 @@ git pull origin branchname
 ```
 git clone https://github.com/username/reponame.git
 ```
+
+
+<details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
