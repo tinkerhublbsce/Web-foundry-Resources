@@ -7,7 +7,7 @@
 |**12 September 2021**|Build a google homepage clone|[Watch](https://youtu.be/JwnKASD1wkA)|[View](/part3/README.md)|
 |**16 September 2021**|Basics of Bootstrap|[Watch](https://youtu.be/RFoQiybhcfg)|[View](/part4/README.md)|
 |**17 September 2021**|Personal Portfolio Project|[Watch](https://youtu.be/9uaHEHYastU)|[View](/part5/README.md)|
-|**25 September 2021**|Git, Github and Pages||[View](/part6/README.md)|
+|**25 September 2021**|Git, Github and Pages|[Watch](https://youtu.be/QGhSGqmiwL0)|[View](/part6/README.md)|
 
 *Upcoming Sessions will be updated soon....*
 
