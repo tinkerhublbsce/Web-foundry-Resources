@@ -8,7 +8,7 @@
  → [Resources Website](https://tinkerhublbsce.github.io/Web-foundry-Resources/)  
  → [Resources Repo](https://github.com/tinkerhublbsce/Web-foundry-Resources)
 
-Course Material
+### Course Material
 
 - [Part 1](/part1/README.md)
 - [Part 2](/part2/README.md)
@@ -19,6 +19,8 @@ Course Material
   - [Task 2](/task2/README.md)
 - [Part 6](/part6/README.md)
 
+### Task Submissions
+ 👉 **[Task 2](https://github.com/tinkerhublbsce/web-foundry-portfolio-projects)**
 
 
 <details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
