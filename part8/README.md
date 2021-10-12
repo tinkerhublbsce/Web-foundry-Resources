@@ -1,4 +1,4 @@
-# Part 7
+# Part 8
 
 ### Calculator Project
 - [Code](https://github.com/tinkerhublbsce/Web-foundry-Resources/tree/main/part8/code)
