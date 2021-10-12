@@ -18,7 +18,8 @@
 - [Part 5](/part5/README.md)
   - [Task 2](/task2/README.md)
 - [Part 6](/part6/README.md)
-
+- [Part 7](/part7/README.md)
+- [Part 8](/part8/README.md)
 ### Task Submissions
  👉 **[Task 2](https://github.com/tinkerhublbsce/web-foundry-portfolio-projects)**
 
