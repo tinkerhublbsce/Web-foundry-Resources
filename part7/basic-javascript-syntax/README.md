@@ -27,3 +27,4 @@ document.getElementById("idName").innerHTML
 
 ### Refer [paths.tinkerhub.org/javascript](https://paths.tinkerhub.org/javascript/) for more resources
  
+<details><summary></summary>Thank You<script async src="https://cdn.splitbee.io/sb.js"></script></details>
