@@ -1,6 +1,6 @@
 # Part 7
 
-### Calcaktor Project
+### Calculator Project
 - [Code](https://github.com/tinkerhublbsce/Web-foundry-Resources/tree/main/part8/code)
 - [Live Website](https://tinkerhublbsce.github.io/Web-foundry-Resources/part8/code/)
 
