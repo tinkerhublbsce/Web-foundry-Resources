@@ -2,7 +2,7 @@
 
 ![Untitled design (18)](https://user-images.githubusercontent.com/57913645/132491302-67857310-a111-448a-ad66-8a6e3d790a57.png)
 
-**[Event Timeline](/timeline.md)**
+### [Event Timeline & Recordings](/timeline.md)
 
 
  → [Resources Website](https://tinkerhublbsce.github.io/Web-foundry-Resources/)  
