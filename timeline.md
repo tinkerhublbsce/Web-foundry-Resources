@@ -8,7 +8,7 @@
 |**16 September 2021**|Basics of Bootstrap|[Watch](https://youtu.be/RFoQiybhcfg)|[View](/part4/README.md)|
 |**17 September 2021**|Personal Portfolio Project|[Watch](https://youtu.be/9uaHEHYastU)|[View](/part5/README.md)|
 |**25 September 2021**|Git, Github and Pages|[Watch](https://youtu.be/QGhSGqmiwL0)|[View](/part6/README.md)|
-|**12 October 2021**|Basics of Javascript||[View](/part7/README.md)|
+|**12 October 2021**|Basics of Javascript|[Watch](https://youtu.be/vN8FTzZWIfk)|[View](/part7/README.md)|
 |**13 October 2021**|Buils a Calculator & Wrap Up Session||[View](/part8/README.md)|
 
 
